@@ -1,0 +1,11 @@
+IP Address of database host: 34.72.228.81:3306
+
+Password for “grader”: asdf1234
+
+IP Address to view web page remotely: http://104.154.229.58:7000/
+
+I used port 7000 as per the original instructions and added a corresponding firewall rule. 
+
+Self assessment of ubuntu installation: Having done ubuntu installation on a vm in CSCE 313, I had somewhat of an idea as to how the process would go and was able to complete it with mostly ease.
+
+Self assessment of MySQL Workbench installation: MySQL workbench took a couple of tries to install and run successfully, but after some troubleshooting, I got it to work fine.
